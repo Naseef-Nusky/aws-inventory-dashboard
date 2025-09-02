@@ -1,0 +1,7 @@
+# Backend
+inventory-backend/node_modules/
+inventory-backend/.env
+
+# Frontend
+inventory-frontend/node_modules/
+inventory-frontend/build/
